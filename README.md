@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kashish Jain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=520&lines=B.Tech+CS+Student;Java+Developer;DSA+Enthusiast;Aspiring+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=520&lines=B.Tech+CS+Student;Java+Developer;Web+Developer;DSA+Enthusiast;Aspiring+Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -22,17 +22,23 @@
 - 🚀 Actively building projects
 
 📍 Ghaziabad, India  
-📫 Reach me at **hikashu.1612@gmail.com**
+📫 Reach me at **jainkashishh25**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Java` `HTML` `CSS` `JavaScript` (learning)
+**Programming Languages:**
+`C` `Java` `SQL`
+
+**Web Technologies:**
+`Java` `HTML` `CSS` `JavaScript` `React.js` `Node.js` `Express.js`(learning)
+
+**Databases:**
+`MongoDB` `MySQL`
 
 **Core CS:**  
-`Data Structures` `OOPs`
+`Data Structures` `OOPs` `DBMS` `Operating System`
 
 **Tools:**  
 `Git` `GitHub` `VS Code`
@@ -42,6 +48,7 @@
 ## 📂 Projects
 
 - 🔹 **Job Portal (Full Stack Project)** – Job posting & application system  
+- 🔹 **Expense Tracker Web Application** – Stored and managed financial records
 - 🔹 **Portfolio Website** – Personal portfolio project  
 - 🔹 **DSA Repository** – Problem-solving practice codes  
 
