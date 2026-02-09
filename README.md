@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kashish Jain</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=520&lines=B.Tech+CSE+Student;Java+Developer;DSA+Enthusiast;Aspiring+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=520&lines=B.Tech+CS+Student;Java+Developer;DSA+Enthusiast;Aspiring+Full+Stack+Developer" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 B.Tech CSE Student at **KIET Group of Institutions (2023–2027)**
+- 🎓 B.Tech CS Student at **KIET Group of Institutions (2023–2027)**
 - 💻 Skilled in **Java**
 - 🧠 Practicing **DSA & Problem Solving**
 - 🌐 Learning **Full Stack Development**
