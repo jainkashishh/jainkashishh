@@ -22,7 +22,7 @@
 - 🚀 Actively building projects
 
 📍 Ghaziabad, India  
-📫 Reach me at **jainkashishh25**
+📫 Reach me at **jainkashishh25@gmail.com**
 
 ---
 
