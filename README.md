@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  💻 B.Tech CS Student | Java | DSA | Full Stack Learner
+  💻 B.Tech Computer Science Student | Java | DSA | Full Stack Learner
 </p>
 
 ---
